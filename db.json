@@ -1,0 +1,18 @@
+{
+
+    "tasks":[
+        {
+            "id":1,
+            "text":"Doctor's Appointment",
+            "day": "Monday, 16 Feb 2022",
+            "reminder": false
+        },
+        {
+            "id":2,
+            "text":"Aman's Appointment",
+            "day": "Monday, 16 Feb 2022",
+            "reminder": false
+        }
+    ]
+   
+}
